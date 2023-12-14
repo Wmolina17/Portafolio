@@ -15,7 +15,7 @@ body{
   background-color: black;
   width: 100%;
   max-width: 100%;
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
 }
 .logo{
     max-width: 190px;
@@ -619,7 +619,7 @@ nav ul li a{
   gap: 30px;
   z-index: 100;
   border-radius: 10px;
-  transition: .5s;
+  transition: .3s;
 }
 .cont-vista-detallada-project .cont-img-project{
   width: 60%;
@@ -982,12 +982,12 @@ footer img{
   overflow-y: auto;
   align-items: center;
   left: -200%;
-  transition: .5s;
+  transition: .3s;
   overflow: hidden;
 }
 .left-certificado-0{
   left: 5%;
-  transition: .5s;
+  transition: .3s;
 }
 
 .cont-img-certificado{
@@ -1304,6 +1304,9 @@ footer img{
     margin-top: -15px;
     width: 80%;
   }
+  .cont-vista-certificado{
+    top: 20vh;
+  }
 }
 @media screen and (max-width: 500px) {
   .section-4 article {
@@ -1340,12 +1343,12 @@ footer img{
     width: 300% !important;
   }
   .container {
-    width: 95%;
+    width: 90%;
     padding-left: 15px;
     padding-right: 15px;
   }
   .container .content{
-    width: 90%;
+    width: 100%;
     text-align: center;
     margin-left: 7%;
   }
@@ -1355,10 +1358,10 @@ footer img{
     padding-right: 28% !important;
   }
   .card-p{
-    width: 80%;
+    width: 90%;
     max-width: 100% !important;
     min-height: auto;
-    margin-left: 10%;
+    margin-left: 7%;
   }
   h1{
     font-size: 30px !important;
@@ -1369,13 +1372,13 @@ footer img{
     font-size: 16px;
   }
   .section-2{
-    width: 80%;
-    margin-left: 10%;
-    padding-left: 50px !important;
-    padding-right: 50px !important;
+    width: 87%;
+    /* margin-left: 10%; */
+    /* padding-left: 50px !important; */
+    /* padding-right: 50px !important; */
   }
   .form{
-    width: 120%;
+    width: 100%;
     margin-left: -1px;
   }
   .section-2 p{
@@ -1384,7 +1387,7 @@ footer img{
     width: 100% !important;
   }
   .contact-us img{
-    width: 130% !important;
+    width: 100% !important;
   }
 }
 @media (max-width: 420px) {
@@ -1394,9 +1397,9 @@ footer img{
     padding-right: 10px;
   }
   .container .content{
-    width: 80%;
+    width: 95%;
     text-align: center;
-    margin-left: 12% !important;
+    margin-left: 6% !important;
   }
   .container .content a{
     width: 100% !important;
@@ -1404,10 +1407,10 @@ footer img{
     padding-right: 28% !important;
   }
   .card-p{
-    width: 75%;
+    width: 95%;
     max-width: 100% !important;
     min-height: auto;
-    margin-left: 13%;
+    margin-left: 3%;
   }
   h1{
     font-size: 28px !important;
@@ -1416,11 +1419,11 @@ footer img{
   }
   .section-1 img{
     width: 100% !important;
-    margin-left: -120px !important;
+    margin-left: -100px !important;
   }
   .section-2{
-    width: 75%;
-    margin-left: 12%;
+    width: 85%;
+    margin-left: 8%;
   }
   .section-2 p{
     font-size: 14px !important;
