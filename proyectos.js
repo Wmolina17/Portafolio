@@ -3,7 +3,7 @@ const projects = [
     {   
         name : "Eccomerce OutXtyle", 
         description : "Esta es una tienda de ropa, que cuenta con paginas como inicio, tienda, contacto, terminos y condiciones, ropa filtrada por tipos, pasarela de pago y mensaje de pago satisfactorio. tambien cuenta con secciones como detalle del producto con diferentes opciones, carrito de compras, prendas recomendadas del mes, etc.", 
-        imgSrc : "img-outxtyle.JPG", 
+        imgSrc : "img-outxtyle.avif", 
         enlaceWeb : "https://wmolina17.github.io/Out-Xtyle-Ecommerce/", 
         enlaceGit : "https://github.com/Wmolina17/Out-Xtyle-Ecommerce", 
         // tecnologias 
@@ -20,7 +20,7 @@ const projects = [
     {   
         name : "Landing Page Clean Code Ebook", 
         description : "Esta es una web para promocionar el ebook de Clean Code en español el cual es un libro en donde se acumulan detalles y tecnicas para ser un buen programador, aqui las personas podran ver de que trata el libro tema por tema, quien es su autor, opiniones y demas cosas.", 
-        imgSrc : "img-cleanCode.JPG", 
+        imgSrc : "img-cleanCode.avif", 
         enlaceWeb : "https://wmolina17.github.io/Web-Clean-Code-Ebook/", 
         enlaceGit : "https://github.com/Wmolina17/Web-Clean-Code-Ebook", 
         // tecnologias 
@@ -37,7 +37,7 @@ const projects = [
     {   
         name : "Real Juventud De America FC", 
         description : "Esta es una web para promocionar el ebook de Clean Code en español el cual es un libro en donde se acumulan detalles y tecnicas para ser un buen programador, aqui las personas podran ver de que trata el libro tema por tema, quien es su autor, opiniones y demas cosas.", 
-        imgSrc : "img-webfootball.JPG", 
+        imgSrc : "img-webfootball.avif", 
         enlaceWeb : "", 
         enlaceGit : "", 
         // tecnologias 
@@ -54,7 +54,7 @@ const projects = [
     {   
         name : "Cafeteria Memorella", 
         description : "Esta es una web cafeteria, esta cuenta con muchas secciones como sobre nosotros, variedades del menu, apartado de reservaciones, apartado de contacto, galeria de productos, slider de testimonios, etc.", 
-        imgSrc : "img-memorella.JPG", 
+        imgSrc : "img-memorella.avif", 
         enlaceWeb : "https://wmolina17.github.io/Memorella-coffe-store", 
         enlaceGit : "https://github.com/Wmolina17/Memorella-coffe-store", 
         // tecnologias 
@@ -71,7 +71,7 @@ const projects = [
     {   
         name : "Landing Page One Piece", 
         description : "esta es una landing page de one piece el anime / manga mas vendido del mundo, esta web cuenta con secciones como sobre la serie, la tripulacion, sagas de la serie, el tema central, el autor, donde ver el anime, donde leer el manga, etc.", 
-        imgSrc : "img-one-piece-web.JPG", 
+        imgSrc : "img-one-piece-web.avif", 
         enlaceWeb : "https://wmolina17.github.io/One-Piece-web/", 
         enlaceGit : "https://github.com/Wmolina17/One-Piece-web", 
         // tecnologias 
@@ -88,7 +88,7 @@ const projects = [
     {   
         name : "Second Life Donations", 
         description : "esta es una web de donaciones en ingles, enfocada en la donacion de ropa para las personas mas necesitadas, esta cuenta con secciones como sobre nosotros, como donar, donar ahora, top donadores, team del proyecto, porque donar, etc.", 
-        imgSrc : "img-secondLife.JPG", 
+        imgSrc : "img-secondLife.avif", 
         enlaceWeb : "https://wmolina17.github.io/Second-Life-Donation/", 
         enlaceGit : "https://github.com/Wmolina17/Second-Life-Donation", 
         // tecnologias 
@@ -105,7 +105,7 @@ const projects = [
     {   
         name : "facebook Frontend Clon", 
         description : "este es un clon de la pagina principal de facebook, cuenta con el maquetado de las secciones, maquetado de posts, sliders de historias, cards de secciones, cards de contactos, cards de grupos, etc. ", 
-        imgSrc : "img-facebook-clone.JPG", 
+        imgSrc : "img-facebook-clone.avif", 
         enlaceWeb : "https://wmolina17.github.io/Facebook-Clone/", 
         enlaceGit : "https://github.com/Wmolina17/Facebook-Clone", 
         // tecnologias 
@@ -122,7 +122,7 @@ const projects = [
     {   
         name : "Google Frontend Clon", 
         description : "este es un clon de la pagina principal de facebook, cuenta con el maquetado de las secciones, maquetado de posts, sliders de historias, cards de secciones, cards de contactos, cards de grupos, etc. ", 
-        imgSrc : "img-google-clone.JPG", 
+        imgSrc : "img-google-clone.avif", 
         enlaceWeb : "https://wmolina17.github.io/Google-clone/", 
         enlaceGit : "https://github.com/Wmolina17/Google-clone", 
         // tecnologias 
@@ -139,7 +139,7 @@ const projects = [
     {   
         name : "Juego Tic Tac Toe", 
         description : "este es un clon de la pagina principal de facebook, cuenta con el maquetado de las secciones, maquetado de posts, sliders de historias, cards de secciones, cards de contactos, cards de grupos, etc. ", 
-        imgSrc : "img-tictactoe.JPG", 
+        imgSrc : "img-tictactoe.avif", 
         enlaceWeb : "", 
         enlaceGit : "", 
         // tecnologias 
@@ -156,7 +156,7 @@ const projects = [
     {   
         name : "App Notas Django", 
         description : "esta es una pagina web de notas en Django framework web de python, esta cuenta con pagina principal, formularios de iniciar sesion / registrarse / crear tarea / modificar tarea conectados a una base datos, vista para las tareas hechas, las no hechas aun, etc. ", 
-        imgSrc : "web-notesDjango.JPG", 
+        imgSrc : "web-notesDjango.avif", 
         enlaceWeb : "", 
         enlaceGit : "https://github.com/Wmolina17/Django-Notes", 
         // tecnologias 
@@ -173,7 +173,7 @@ const projects = [
     {   
         name : "Juego Cohete", 
         description : "este es un juego desarrollado en python, basado en esquivar las bombas dirigiendo el cohete con la inclinacion de tu cabeza, en donde se van ganando puntos en base al tiempo transcurrido ", 
-        imgSrc : "img-cohetes.JPG", 
+        imgSrc : "img-cohetes.avif", 
         enlaceWeb : "", 
         enlaceGit : "https://github.com/Wmolina17/Juego-cohete", 
         // tecnologias 
@@ -190,7 +190,7 @@ const projects = [
     {   
         name : "Juego Dinosauro Google", 
         description : "este es un juego desarrollado en javascript, basado en el juego del dinosaurio de google, cambiandole detalles graficos como espacio, cactus, cielo, contador de puntos basado en el numero de cactus saltados, etc. ", 
-        imgSrc : "img-dinoGoogle.JPG", 
+        imgSrc : "img-dinoGoogle.avif", 
         enlaceWeb : "https://wmolina17.github.io/Dinosaurio-google/", 
         enlaceGit : "https://github.com/Wmolina17/Dinosaurio-google", 
         // tecnologias 
@@ -207,7 +207,7 @@ const projects = [
     {   
         name : "Web Clima API", 
         description : "esta es una pagina web que consume una api del clima, en donde poner el lugar y te salen caracteristicas como temperatura, sensacion termica, humedad, entre otras cosas del lugar. ", 
-        imgSrc : "web-clima.JPG", 
+        imgSrc : "web-clima.avif", 
         enlaceWeb : "", 
         enlaceGit : "https://github.com/Wmolina17/App-clima", 
         // tecnologias 
@@ -224,7 +224,7 @@ const projects = [
     {   
         name : "Web pomodoro", 
         description : "esta es una pagina web pomodoro, esta es una herramienta para el manejo del tiempo al momento de hacer tareas, aqui agregas tu tarea y se pone en la cola, puedes escoger cuando iniciar una tarea y tendras 25 min para esa actividad, luego 5 minutos de descanso ", 
-        imgSrc : "web-pomodoro.JPG", 
+        imgSrc : "web-pomodoro.avif", 
         enlaceWeb : "", 
         enlaceGit : "https://github.com/Wmolina17/Pomodoro", 
         // tecnologias 
@@ -241,7 +241,7 @@ const projects = [
     {   
         name : "Web Calculadora", 
         description : "esta es una pagina web de calculadora, en donde puedes realizar las operaciones matematicas basicas como suma, resta, multiplicacion, division, etc. ", 
-        imgSrc : "web-calculadora.JPG", 
+        imgSrc : "web-calculadora.avif", 
         enlaceWeb : "", 
         enlaceGit : "https://github.com/Wmolina17/Calculadora", 
         // tecnologias 
@@ -258,7 +258,7 @@ const projects = [
     {   
         name : "Web Buscador De Peliculas API", 
         description : "esta es una pagina web de calculadora, en donde puedes realizar las operaciones matematicas basicas como suma, resta, multiplicacion, division, etc. ", 
-        imgSrc : "web-buscador-peliculas.JPG", 
+        imgSrc : "web-buscador-peliculas.avif", 
         enlaceWeb : "", 
         enlaceGit : "https://github.com/Wmolina17/Buscador-peliculas", 
         // tecnologias 
