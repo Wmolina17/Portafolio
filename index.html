@@ -162,27 +162,7 @@
         <div class="section-5" id="proyectos">
             <h2>Portafolio De Proyectos</h2>
             <div id="cont-cards-portafolio" class="cont-cards-portafolio">
-                <!-- <div class="card-p">
-                    <img class="Project-img" src="http://dummyimage.com/300x200"/>
-                    <div class="tecnologias">
-                        <p class="html"># html</p>
-                        <p class="css"># css</p>
-                        <p class="javascript"># javascript</p>
-                        <p class="react"># react</p>
-                        <p class="python"># python</p>
-                        <p class="django"># django</p>
-                        <p class="git"># git</p>
-                        <p class="sql"># sql</p>
-                        <p class="bootstrap"># bootstrap</p>
-                    </div>
-                    <p class="project-name">Proyecto 1</p>
-                    <p class="project-desc">Descripcion del proyecto</p>
-                    <a class="btn-2" href=""> Ver Detalles</a>
-                    <div class="div-none">
-                        <p class="project-link-git">link github</p>
-                        <p class="project-link-web">link pagina web</p>
-                    </div>
-                </div> -->
+                <!-- --------------------- -->
             </div>
         </div>
         <div class="botones-educacion">
@@ -337,6 +317,20 @@
         };
         var x = document.getElementsByTagName('script')[0];
         x.parentNode.insertBefore(s, x);
+    </script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var lazyImages = document.querySelectorAll('.lazy');
+            
+            lazyImages.forEach(function(img) {
+                img.addEventListener('load', function() {
+                // Opcional: puedes realizar acciones adicionales después de que la imagen se haya cargado
+                });
+                
+                img.src = img.dataset.src; 
+            });
+        });
     </script>
     
     
