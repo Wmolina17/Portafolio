@@ -120,6 +120,23 @@ const projects = [
         sql : "",
     },
     {   
+        name : "Web Quitador De Fondos", 
+        description : "Esta web es una herramienta para las personas que quieran quitar el fondo de cualquier tipo de imagen y luego descargarlas para usarla en cualquier tipo de proyecto. ", 
+        imgSrc : "quita-fondos.avif", 
+        enlaceWeb : "", 
+        enlaceGit : "https://github.com/Wmolina17/Quita-Fondos-React", 
+        // tecnologias 
+        js : "javascript",
+        python : "",
+        react : "react",
+        html : "html",
+        css : "css",
+        django : "",
+        bootstrap : "tailwind",
+        git : "git",
+        sql : "",
+    },
+    {   
         name : "Web Buscador De Peliculas", 
         description : "Esta web es una herramienta para las personas que quieran buscar peliculas y saber cuantas peliculas hay de su serie favorita, le das el nombre de una saga de peliculas y te muestra todas las peliculas existentes de dicha saga, consultando en una API de peliculas. ", 
         imgSrc : "web-buscador-peliculas.avif", 
