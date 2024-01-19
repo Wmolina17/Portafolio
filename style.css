@@ -1215,8 +1215,10 @@ footer img{
     text-align: center;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: center !important;
+    gap: 5vh;
     transition: all .5s;
+    padding-bottom: 20vh;
   }
   nav li a:before{
     display: none;
@@ -1226,8 +1228,8 @@ footer img{
   }
   nav ul li{
     display: block;
-    margin: 50px 0 !important;
-    line-height: 30px;
+    margin: 10px 0 !important;
+    line-height: 0px !important;
   }
   nav ul li a{
     font-size: 20px;

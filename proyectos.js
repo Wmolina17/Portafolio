@@ -120,6 +120,23 @@ const projects = [
         sql : "",
     },
     {   
+        name : "Google Translate Clone", 
+        description : "esta es una copia de google translate, desarrollada en React en conjunto con Typescript, traduce el texto en tiempo real a un numero limitado de idiomas y cuenta con funciones como intercambiar idiomas, copiar texto, traducir el texto a voz, etc. ", 
+        imgSrc : "img-google-translate.avif", 
+        enlaceWeb : "", 
+        enlaceGit : "https://github.com/Wmolina17/Google-Translate-Clone", 
+        // tecnologias 
+        js : "javascript",
+        python : "",
+        react : "react",
+        html : "html",
+        css : "css",
+        django : "",
+        bootstrap : "",
+        git : "git",
+        sql : "typescript",
+    },
+    {   
         name : "Web Quitador De Fondos", 
         description : "Esta web es una herramienta para las personas que quieran quitar el fondo de cualquier tipo de imagen y luego descargarlas para usarla en cualquier tipo de proyecto. ", 
         imgSrc : "quita-fondos.avif", 
